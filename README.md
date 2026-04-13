@@ -58,7 +58,10 @@ App.jsx
 
 ```bash
 # Clone repository
-git clone <your-repo-link>
+git clone https://github.com/saqib111/Product-Listing-Form-Validations
+
+# Live Website Link
+https://frontendjobassignment.netlify.app/form
 
 # Install dependencies
 npm install
